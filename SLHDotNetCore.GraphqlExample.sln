@@ -5,6 +5,16 @@ VisualStudioVersion = 17.10.34825.169
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLHDotNetCore.GraphqlExample", "SLHDotNetCore.GraphqlExample\SLHDotNetCore.GraphqlExample.csproj", "{F5463C38-2457-41A5-87C2-19BD6EAD8DA5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{06FE58CF-4F06-4BB5-A1BA-B75497ECD8AA}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		rest-vs-graphql-1.png = rest-vs-graphql-1.png
+		rest-vs-graphql-2.png = rest-vs-graphql-2.png
+		rest-vs-graphql-3.png = rest-vs-graphql-3.png
+		rest-vs-graphql-5.png = rest-vs-graphql-5.png
+		rest-vs-graphql-4.png = rest-vs-graphql-4.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
