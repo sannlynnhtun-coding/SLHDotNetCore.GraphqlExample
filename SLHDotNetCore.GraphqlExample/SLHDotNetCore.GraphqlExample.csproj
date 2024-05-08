@@ -12,9 +12,4 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.4" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Database\" />
-    <Folder Include="Features\" />
-  </ItemGroup>
-
 </Project>
